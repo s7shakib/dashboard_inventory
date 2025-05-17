@@ -5,7 +5,7 @@ export interface InitialStateTypes {
   isDarkMode: boolean;
 }
 
-const initialState: InitialStateTypes = {
+const initialState: InitailStateTypes = {
   isSidebarCollapsed: false,
   isDarkMode: false,
 };
